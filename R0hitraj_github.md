@@ -1,7 +1,7 @@
 {
-    username= "R0hitraj"
-    github Link = "https://github.com/r0hitraj"
-    bio= " I Am A PreFinal Year Information Technology Undergrad Who is Intrested In Network and Software Engineering 
+    username= "Labcodes4b2"
+    github Link = "https://github.com/labcodes4b2"
+    bio= " I am a code who code for liviing my repo helps college students 
     
     And A Part Time Foody"
     
